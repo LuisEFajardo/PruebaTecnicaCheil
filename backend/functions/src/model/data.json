@@ -1,0 +1,58 @@
+[
+    {
+        "id":"1",
+        "name":"Hotel el Rey",
+        "address":"Calle 15 # 45-10",
+        "city":"Bogota",
+        "minPrice":40000,
+        "maxPrice":90000
+    },
+    {
+        "id":"2",
+        "name":"Hotel Amarillo",
+        "address":"Calle 80 # 12-34",
+        "city":"Bogota",
+        "minPrice":50000,
+        "maxPrice":70000
+    },
+    {
+        "id":"3",
+        "name":"Hotel el Roble",
+        "address":"Calle 45 # 120-22",
+        "city":"Medellin",
+        "minPrice":70000,
+        "maxPrice":120000
+    },
+    {
+        "id":"4",
+        "name":"Hotel Manantial",
+        "address":"Carrera 15 # 90-10",
+        "city":"Cali",
+        "minPrice":100000,
+        "maxPrice":290000
+    },
+    {
+        "id":"5",
+        "name":"Hotel Real",
+        "address":"Carrera 67 # 34-8",
+        "city":"Cali",
+        "minPrice":30000,
+        "maxPrice":200000
+    },
+    {
+        "id":"6",
+        "name":"Hotel Tairona",
+        "address":"Calle 15 # 45-7",
+        "city":"Cali",
+        "minPrice":80000,
+        "maxPrice":150000
+    },
+    {
+        "id":"7",
+        "name":"Hotel Monte Blanco",
+        "address":"Calle 1 # 7-12",
+        "city":"Cali",
+        "minPrice":40000,
+        "maxPrice":180000
+    }
+]
